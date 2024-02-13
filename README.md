@@ -3,8 +3,6 @@ Sistem Pencatatan Uang Kas HIMMI (SIKASHIMMI) Merupakan project kelompok untuk m
 
 [![Demo Sistem](https://markdown-videos-api.jorgenkh.no/youtube/eeEvqqL7yZI)](https://youtu.be/eeEvqqL7yZI)
 
-
-https://i3.ytimg.com/vi/eeEvqqL7yZI/maxresdefault.jpg
 ## Setup
 
 - PHP 8x
